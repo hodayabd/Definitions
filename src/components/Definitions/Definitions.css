@@ -1,0 +1,32 @@
+@import '~antd/dist/antd.css';
+
+h1{
+    font-weight: bold;
+}
+
+.definition_wrap{
+width: 80%;
+margin: 100px;
+}
+
+  button.ant-switch{
+    background: rgba(74, 211, 165, 0.5);
+    size: 60px;
+}
+.definitionMessage{
+margin:30px;
+}
+.definitionsMail{
+    margin: 30px;
+}
+
+.exit{
+margin: 100px;
+width: 246px;
+height: 48px;
+color:white ;
+
+
+background: #9D9999;
+border-radius: 4px;
+}
